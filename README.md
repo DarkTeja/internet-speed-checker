@@ -31,8 +31,3 @@ OR
 ```
 pip3 install speedtest-cli
 ```
-
-## Author
-![Shreejan-35](https://github.com/Shreejan-35)
-
-That's all.
